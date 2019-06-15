@@ -8,7 +8,7 @@ footer {
 }
 
 body {
-    background: #6ebafb;
+    background: linear-gradient(60deg, #6ebafb, white);    
 }
 
 .jumbotron {

@@ -6,3 +6,11 @@ img {
 footer {
     margin: 40px;
 }
+
+body {
+    background: #6ebafb;
+}
+
+.jumbotron {
+    margin: 20px;
+}
